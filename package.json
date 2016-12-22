@@ -1,0 +1,28 @@
+{
+  "name": "react-native-stepper-indicator",
+  "version": "0.0.1",
+  "description": "Stepper indicator component for react native",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "stepper",
+    "steps",
+    "animation",
+    "animated",
+    "ios",
+    "android"
+  ],
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halilb/react-native-stepper-indicator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halilb/react-native-stepper-indicator/issues"
+  },
+  "author": "Halil Bilir <hbilir@gmail.com>",
+  "homepage": "https://github.com/halilb/react-native-stepper-indicator#readme"
+}
